@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1024px) {
+    *{
+
+    }
+    .navbar{
+        width: 100%;
+    }
+    #firstportion img{
+        width: 100%;
+    }
+    .inte {
+        width: 59%;
+    }
+    #secondportion img{
+        width: 100%;
+    }
+    #fourthportion #card{
+        width: 15rem;
+    }
+    #six3{
+        width: 50%;
+    }
+    #six33 img{
+        width: 100%;
+    }
+    #eightportion img{
+        width: 100%;
+    }
+    #nen{
+        width: 125%;
+    }
+    #fooot li {
+        margin-left: 13px;
+    }
+    
+  }
